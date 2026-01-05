@@ -1,0 +1,1 @@
+# Your homework submission! Please follow the instructions in `02-frontend/hw/README.md` and then complete your writeup in this file. Submit by pushing all of your changes for this week's notes, hw etc to the remote of your fork of this repository!
