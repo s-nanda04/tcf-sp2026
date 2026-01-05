@@ -20,7 +20,9 @@ Open your terminal and navigate to this `02-frontend/hw` directory. Run the foll
 npx create-next-app@latest mywebsite --typescript --tailwind
 ```
 
-these were my answers to the questions asked after you run this command:
+these were my answers to the questions asked after you run this command (for some more clarity):
+<img width="1452" height="242" alt="image" src="https://github.com/user-attachments/assets/8b7347f1-fd91-4b02-9190-92f6e11bf118" />
+
 
 When prompted, you can press **Enter** to accept the defaults for any other options (like `src/` directory, App Router, etc.).
 
